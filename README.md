@@ -1,4 +1,4 @@
-# Delgado-and-Green
+# delgado-and-green
 Sistema para registrar propriedades, talhões, culturas e medições de campo, com API e painel de visualização. Projeto de estudo que une programação e agronomia.
 
 ## Status
