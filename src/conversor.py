@@ -13,4 +13,5 @@ def alqueires_para_hectares(alqueires):
 
 resultado = alqueires_para_hectares(4.13)
 print(f"4.13 alqueires = {resultado:.0f} hectares")
+print(resultado)
 
