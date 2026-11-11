@@ -5,6 +5,16 @@ Sistema para registrar propriedades, talhões, culturas e medições de campo, c
 
 Em desenvolvimento. Fase atual: preparação e fundamentos de Python.
 
+## Como rodar
+
+com o Python 3 instalado, execute no terminal:
+
+'''bash
+python src/conversor.py
+'''
+
+O programa mostra a conversão de 10 ha para alqueires paulistas.
+
 ## Tecnologias planejadas
 
 - Python e FastAPI
